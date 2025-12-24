@@ -1,0 +1,8 @@
+print("Hello World")
+print("My name is Anas")
+print("My age is 24")
+print("My name is Anas." , "My age is 24.")
+print(23)
+print(45)
+print(23+31)
+print(43-12)
